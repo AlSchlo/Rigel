@@ -1,8 +1,8 @@
-# Rigel - Night Sky Visualization Program
+# Rigel - A Night Sky Visualization Program
 
 ## Presentation
 
-This project was realized in the context of the Object-Oriented course at EPFL. It implements a **JavaFX** application that allows users to visualize the sky at night.
+This project was realized in the context of the Object-Oriented Programming course at EPFL. It implements a **JavaFX** application that allows users to visualize the sky at night.
 
 Rigel models all visible celestial objects at any *location*, *orientation*, and *time* on Earth.
 
@@ -10,7 +10,7 @@ This work was carried out in collaboration with Paul Guillon, undergraduate stud
 
 ## Build
 
-This work is coded in Java and uses Maven to sort out the required dependencies. No special actions are required to launch the app.
+This work is coded in Java and uses Maven to sort out the required dependencies. No special actions are required to launch the application.
 
 ## Use
 
